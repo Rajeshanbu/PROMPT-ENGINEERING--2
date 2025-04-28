@@ -158,7 +158,7 @@ To ensure fairness:
   Allows for longer, more thorough responses while avoiding excessive verbosity.
 
 ---
-
+ 
 ## 13. Prompt Length Impact
 - Short prompts yield quick but shallow responses.
 - Longer, structured prompts give detailed, accurate answers that are more relevant to the user's needs.
